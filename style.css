@@ -1,0 +1,35 @@
+.bloco{
+    margin: 20px 10px;
+    width: 350px;
+    padding: 10px 15px;
+    height: 80px;
+    font-size: 18px;
+}
+
+#bloco-1{
+    background-color: #e98819;
+    color: #ffffff;
+    border: 5px solid #f1b037;
+}
+
+#bloco-2{
+    background-color: green;
+    color: white;
+    border: 5px solid greenyellow;
+}
+
+#bloco-3{
+    background-color: #073f07;
+    color: white;
+    border: 5px dashed green;
+}
+
+#bloco-4{
+    background-color: red;
+    color: white;
+    border: 5px dashed #cc5454;
+}
+
+main{
+    font-family: Helvetica, sans-serif;
+}
