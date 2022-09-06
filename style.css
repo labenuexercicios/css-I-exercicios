@@ -1,0 +1,39 @@
+#bloco-1{
+  margin: 20px;
+  width: 30vw ;
+  padding: 10px;
+  background-color: chocolate;
+  color: white;
+  border: 5px rgb(245, 156, 92) solid;
+}
+#bloco-2{
+  margin: 20px;
+  width: 30vw;
+  padding: 10px;
+  background-color: rgb(20, 10, 43);
+  color: white;
+  border: 5px rgb(125, 187, 71)solid;
+  
+}
+
+#bloco-3{
+  margin: 20px;
+  width: 30vw ;
+  padding: 10px;
+  background-color: rgb(17, 68, 17);
+  color: white;
+  border:5px rgb(73, 173, 73) solid;
+}
+
+#bloco-4{
+  margin: 20px;
+  width: 30vw ;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border:5px rgb(197, 115, 115) solid;
+}
+
+main{
+  font-family:Helvetica;
+}
