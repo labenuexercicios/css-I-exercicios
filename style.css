@@ -1,0 +1,50 @@
+.blocolaranja{
+    background-color: rgb(247, 175, 81);
+    display:block;
+    margin: 5px 10px 5px 10px; 
+    border: 7px solid rgba(245, 205, 200, 0.603) ;
+    padding: 10px 10px 10px 20px;
+    height: 50px;
+    width: 260px;
+
+}
+
+.bloco2{
+    background-color: darkseagreen;
+    display:block;
+    margin: 5px 10px 5px 10px; 
+    border: 7px solid rgba(245, 205, 200, 0.603) ;
+    padding: 10px 10px 10px 20px;
+    height: 50px;
+    width: 260px;
+}
+
+.bloco3{
+    background-color: rgb(48, 94, 48);
+    display:block;
+    margin: 5px 10px 5px 10px; 
+    border: 7px solid rgba(245, 205, 200, 0.603) ;
+    padding: 10px 10px 10px 20px;
+    height: 50px;
+    width: 260px;
+}
+
+.bloco4{
+    background-color:rgb(223, 90, 57);
+    display:block;
+    margin: 5px 10px 5px 10px; 
+    border: 7px solid rgba(245, 205, 200, 0.603) ;
+    padding: 10px 10px 10px 20px;
+    height: 50px;
+    width: 260px;
+}
+
+main{
+    font-family: "helvetica";
+    font-size: 16px;
+    color: white;
+   
+}
+
+
+
