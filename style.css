@@ -2,11 +2,13 @@ main{
     font-family: Helvetica;
 }
 #bloco-1{
+    cent
     color: white;
     background-color: orange;
     border: 16px groove yellow;
     width: 300px;
     margin: 5px;
+ 
 }
 #bloco-2{
     color: white;
