@@ -1,0 +1,35 @@
+#bloco-1{
+    background-color: rgb(20, 88, 177);
+    border: 4px solid rgb(5, 37, 80);
+    margin: 4px;
+    width: 20vw;
+    color: #fff
+}
+
+#bloco-2{
+    background-color: rgb(78, 175, 78);
+    border: 4px solid rgb(41, 114, 41);
+    margin: 4px;
+    width: 20vw;
+    color: #fff
+}
+
+#bloco-3{
+    background-color: rgb(211, 53, 190);
+    border: 4px dashed rgb(150, 15, 132);
+    margin: 4px;
+    width: 20vw;
+    color: #fff
+}
+
+#bloco-4{
+    background-color: rgb(231, 50, 87);
+    border: 4px dashed rgb(228, 17, 52);
+    margin: 4px;
+    width: 20vw;
+    color: #fff
+}
+
+main{
+    font-family: Helvetica;
+}
