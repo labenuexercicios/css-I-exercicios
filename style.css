@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main{
+    font-family: helvetica;
+}
+.block {
+    padding: 10px;    
+    width: fit-content;
+    height: 50px;
+    color: white;
+    border: 10px
+}
+
+#bloco-1 {
+    background-color: #fd9a10;
+    border: 5px solid #f7b232;
+    margin: 10px;
+}
+
+#bloco-2{
+    background-color: rgb(87, 156, 87);
+    border: 5px solid rgb(121, 189, 119);
+    margin: 10px;
+}
+
+#bloco-3{
+    background-color: rgb(1, 80, 1);
+    border: 5px dashed rgb(110, 202, 110);
+    margin: 10px;
+}
+
+#bloco-4{
+    background-color: rgb(221, 57, 57);
+    margin: 10px;
+    border: 5px dashed rgb(252, 127, 127);
+}
