@@ -1,0 +1,32 @@
+.bloco{
+    background-color: orange;
+    border: 5px lightsalmon double;
+    color: white;
+    height: 20vh;
+    width: 30vw;
+    margin: 20px 30px ;
+    
+}
+
+#bloco-2{
+    background-color: green;
+    border: 5px lightseagreen double;
+    color: white;
+}
+
+#bloco-3{
+    background-color: purple;
+    border: 3px lightpink dotted;
+    color: white;
+    
+}
+
+#bloco-4{
+    background-color: red;
+    border: 3px lightcoral dotted;
+    color: white;
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+}
