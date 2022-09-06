@@ -1,0 +1,33 @@
+main{
+    font-family: Helvetica;
+}
+#bloco-1{
+    cent
+    color: white;
+    background-color: orange;
+    border: 16px groove yellow;
+    width: 300px;
+    margin: 5px;
+ 
+}
+#bloco-2{
+    color: white;
+    background-color: green;
+    border: 16px solid greenyellow;
+    width: 300px;
+    margin: 5px;
+}
+#bloco-3{
+    color: white;
+    background-color: rgb(14, 68, 14);
+    border: 16px dashed green;
+    width: 300px;
+    margin: 5px;
+}
+#bloco-4{
+    color: white;
+    background-color: red;
+    border: 16px dashed rgb(206, 66, 66);
+    width: 300px;
+    margin: 5px;
+}
