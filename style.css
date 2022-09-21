@@ -1,0 +1,73 @@
+
+main{
+    font-family: Helvetica;
+    animation:
+}
+
+section{
+    align-items: center;
+    display: flex;
+    gap: 30px;
+}
+
+#bloco-1{
+    padding: 10px 10px 10px 10px;
+    background-color: orange;
+    box-shadow: 10px 8px 14px black;
+    color: white;
+    width: 230px;
+    margin-top: 10px;
+    border: 2px solid orange;
+    border-radius: 5%;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bloco-2{
+    padding: 10px 10px 10px 10px;
+    background-color: greenyellow;
+    box-shadow: 10px 8px 14px black;
+    color: white;
+    width: 230px;
+    margin-top: 10px;
+    border: 2px solid green;
+    border-radius: 5%;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bloco-3{
+    padding: 10px 10px 10px 10px;
+    background-color: green;
+    box-shadow: 10px 8px 14px black;
+    color: white;
+    width: 230px;
+    margin-top: 10px;
+    border: 2px dashed white;
+    border-radius: 5%;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bloco-4{
+    padding: 10px 10px 10px 10px;
+    background-color: red;
+    box-shadow: 10px 8px 14px black;
+    color: white;
+    width: 230px;
+    margin-top: 10px;
+    border: 2px dotted orange;
+    border-radius: 5%;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
