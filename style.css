@@ -1,0 +1,44 @@
+/* Ultilizar as propriedades do box model */
+
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+
+main{
+    text-align: center;
+    font-family: "helvetica";
+}
+
+.bloco{
+    width: 300px;
+    margin: 10px ;
+    padding-top: 1px;
+    padding-bottom: 1px ;
+
+    color: white;
+
+}
+
+#bloco-1{
+    background-color: #e18f39;
+    border: 10px groove rgba( 225, 143, 57) ;
+    
+}
+
+#bloco-2{
+    background-color: #00B300;
+    border: 10px groove rgb(65, 121, 65);
+    
+}
+
+#bloco-3{
+    background-color: #004D1A;
+    border: 10px dashed rgb(34, 158, 34);
+}
+
+#bloco-4{
+    background-color: #FF2A00;
+    border: 10px dashed rgb(190, 88, 81);
+}
