@@ -3,31 +3,31 @@
     display: block;
     height: 80px;
     width:  300px;
-    margin-bottom: 10px;
-    padding-top: 15px;
+    margin: 5px 5px 5px 5px;
     padding-left: 15px;
     line-height: 5px;
+    color: white;
 }
 
 
 #bloco-1{
     background-color: chocolate;
-    color: white;
+    border: 5px solid orange;
 }
 
 #bloco-2{
     background-color: darkgreen;
-    color: white;
+    border: 5px solid rgb(4, 192, 4);
 }
 
 #bloco-3{
     background-color: rgb(3, 68, 30);
-    color: white;
+    border: 5px dashed rgb(75, 233, 75);
 }
 
 #bloco-4{
     background-color: red;
-    color: white;
+    border: 5px dashed rgb(250, 64, 95);
 }
 
 
