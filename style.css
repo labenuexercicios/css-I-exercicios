@@ -6,14 +6,16 @@
 
 main{
     font-family: Helvetica;
+    text-align: center;
 }
 
+
 .bloco {
-    margin: 10px 20px;
+    margin: 12px 20px;
     height: 10vh;
     width: 22vw;
     padding: 10px;
-    border: 10px;
+    border: 4px;
     color: white;
 }
 
@@ -34,3 +36,8 @@ main{
     background-color: rgb(220, 48, 48);
     border: 4px dashed rgb(230, 102, 102);
 }
+
+
+/* section {
+    display: flex; --> faz com que a tag selecionada corvetam em inline
+} */
