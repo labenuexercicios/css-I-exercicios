@@ -1,0 +1,36 @@
+main{
+    font-family: Helvetica;
+}
+#bloco-1{
+    padding: 10px 10px 10px 10px;
+    background-color: orange;
+    color: white;
+    width: 230px;
+    margin-top: 10px;
+    border: 2px solid orange;
+}
+
+#bloco-2{
+    padding: 10px 10px 10px 10px;
+    background-color: greenyellow;
+    color: white;
+    width: 230px;
+    margin-top: 10px;
+    border: 2px solid green;
+}
+#bloco-3{
+    padding: 10px 10px 10px 10px;
+    background-color: green;
+    color: white;
+    width: 230px;
+    margin-top: 10px;
+    border: 2px dashed white;
+}
+#bloco-4{
+    padding: 10px 10px 10px 10px;
+    background-color: red;
+    color: white;
+    width: 230px;
+    margin-top: 10px;
+    border: 2px dotted pink;
+}
