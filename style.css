@@ -1,0 +1,44 @@
+main{
+    font-family: Helvetica;
+}
+
+.bloco{
+    height: 100px ;
+    width: 400px;
+    align-items: center;
+}
+
+#bloco-1{
+    background-color: orange;
+    color: white;
+    border: rgb(202, 156, 71) 5px solid;
+    text-align: center;
+}
+
+#bloco-2{
+    background-color: rgb(20, 141, 20);
+    color: white;
+    border: green solid 5px ;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#bloco-3{
+    background-color: rgb(5, 59, 5);
+    color: white;
+    margin-top: 20px;
+    border: green dashed 5px;
+    text-align: center;
+}
+
+#bloco-4{
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    border: rgba(162, 146, 146, 0.73) dashed 5px;
+    text-align: center;
+}
+
+p{
+    margin-top: -15px;
+}
