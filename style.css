@@ -1,0 +1,36 @@
+
+.bloco{
+    width: 20%;
+    margin: 10px;
+}
+
+
+#bloco-1{
+    border: 8px solid orange;
+    background-color: #dd9716;
+    color:white;
+}
+
+#bloco-2{
+    border: 8px solid rgb(115, 199, 115);
+    background-color: green ;
+    color:white;
+  
+}
+
+#bloco-3{
+    border: 8px dashed rgb(64, 211, 64);
+    background-color: rgb(5, 49, 5);
+    color:white;
+}
+
+#bloco-4{
+    border: 8px dashed rgb(224, 126, 126);
+    background-color: red;
+    color:white;
+}
+
+main{
+    font-family: "Helvetica";
+}
+    
