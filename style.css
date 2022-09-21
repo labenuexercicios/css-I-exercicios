@@ -1,0 +1,47 @@
+/*
+c)Utilize as propriedades do box model para deixar os articles 
+iguais aos da imagem anexada. 
+d)Atribua estas propriedades à classe `bloco`;
+*/
+*main{
+   font-family: helvetica; 
+}
+#bloco-1{
+    background-color: rgb(182, 127, 24);
+    color: white;
+    border: solid 4px rgb(230, 171, 62);
+    margin-bottom: 10px;
+    margin-right: 800px;
+}
+#bloco-2{
+    background-color:rgb(10, 79, 10);
+    color: white;
+    border: solid 4px rgb(59, 171, 59);
+    margin-bottom: 10px;
+    margin-right: 800px;
+}
+#bloco-3{
+    background-color: rgb(3, 69, 3);
+    color: white;
+    border: dashed 4px green;
+    margin-bottom: 10px;
+    margin-right: 800px;
+}
+#bloco-4{
+    background-color: rgb(133, 24, 24);
+    color: white;
+    border: dashed 4px rgb(220, 57, 57);
+    margin-right: 800px;
+}
+
+h1{
+    font-family: Arial border;
+    font-size: 25px;
+    margin-bottom: 1px;
+    margin-top: 8px;
+}
+p{
+    font-family: Helvetica;
+    margin-top: 1px;
+    font-size: 20px;
+}
