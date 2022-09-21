@@ -4,6 +4,10 @@
     color: white;
 }
 
+body{
+    background-color: #e459f9;
+}
+
 main{
     font-family: helvetica;
 }
