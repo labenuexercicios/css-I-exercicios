@@ -1,0 +1,36 @@
+main {
+    font-family: helvetica;
+}
+  
+  
+.bloco {
+   width: 280px;
+   padding: 10px;
+   margin: 12px;
+   color: white;
+   font-size: 13px;
+   text-align:start;
+   line-height: 0px;
+}
+  
+  
+  
+#bloco-1 {
+   background-color: darkorange;
+   border: 4px solid orange;
+}
+  
+#bloco-2 {
+    background-color: green;
+    border: 4px solid rgb(34, 167, 0);
+}
+  
+#bloco-3 {
+    background-color: darkslategray;
+    border: 4px dashed lightgreen
+}
+  
+#bloco-4 {
+    background-color: brown;
+    border: 4px dashed lightcoral;
+}
