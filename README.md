@@ -1,4 +1,4 @@
-# A021 - CSS I
+# CSS I - Exercícios
 
 ### Setup do projeto no Git
 
