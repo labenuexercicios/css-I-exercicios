@@ -1,0 +1,40 @@
+
+main{
+    font-family:Helvetica;
+}
+
+.bloco{
+    color: white;
+    width: 350px;
+    height: 110PX;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+H1{
+   
+    font-size: x-large;
+}
+p{
+    font-size: large;
+  
+}
+
+#bloco-1{
+    background-color: orange;
+    border: 7px solid rgb(236, 196, 121);
+}
+
+#bloco-2{
+    background-color: green;
+    border: 7px solid rgb(150, 236, 121);
+}
+
+#bloco-3{
+    background-color: rgb(3, 37, 3);
+    border: 7px dashed rgb(150, 236, 121);
+}
+
+#bloco-4{
+    background-color: rgb(236, 45, 45);
+    border: 7px dashed rgb(247, 167, 167);
+}
