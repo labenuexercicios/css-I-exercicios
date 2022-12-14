@@ -1,0 +1,43 @@
+#bloco-1{
+    background-color: coral;
+    padding-left: 10px;
+    width: 260px;
+    height: 100px;
+    border: 5px solid orange;
+    color: white;
+}
+
+#bloco-2{
+    margin-top: 30px;
+    background-color: darkcyan;
+    padding-left: 10px;
+    width: 260px;
+    height: 100px;
+    border: 5px solid darkgreen;
+    color: white;
+}
+#bloco-3{
+    margin-top: 30px;
+    background-color: darkgreen;
+    padding-left: 10px;
+    width: 260px;
+    height: 100px;
+    /* border:dotted; */
+    border: 5px dotted greenyellow;
+    color: white;
+}
+#bloco-4{
+    margin-top: 30px;
+    
+    background-color: crimson;
+    padding-left: 10px;
+    width: 260px;
+    height: 100px;
+    /* border:dotted; */
+    border: 5px dotted tomato;
+    color: white;
+}
+
+main{
+    font-family: 'Helvetica';
+}
