@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1, p{
+    padding: 0;
+    margin: 10px 0px 10px 10px;
+}
+
+.bloco{
+margin: 10px 0 10px 5px;
+max-width: 15%;
+color: white;
+}
+
+#bloco-1{
+    border: 7px solid orange;
+    background-color: rgb(239, 133, 4);
+    opacity: 0.8;
+}
+
+#bloco-2{
+    border: 7px solid #32cd32;
+    background-color: #008000;
+    opacity: 0.8;
+}
+
+#bloco-3{
+    border: 7px dashed limegreen;
+    background-color: rgb(2, 20, 2);
+    opacity: 0.8;
+}
+
+#bloco-4{
+    border: 7px dashed #ff6347;
+    background-color: red;
+    opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
