@@ -1,0 +1,28 @@
+article{    
+    margin: 5px ;
+    padding: 0px 8px;
+    height: 70px;
+    width: 40vw;
+    font-size: 14px;
+    color: white;
+    font-family: helvetica;
+    text-align: center;
+}
+
+#bloco-1{
+    border: 5px solid rgb(238, 148, 84);
+    background-color: rgb(216, 118, 5);
+}
+#bloco-2{
+    border: 5px solid rgb(62, 145, 62);
+    background-color: rgb(60, 99, 60);
+}
+#bloco-3{
+    border: 5px dashed rgb(70, 182, 70);
+    background-color: rgb(5, 46, 5);
+}
+#bloco-4{
+    border: 5px dashed rgb(235, 115, 115);
+    background-color: rgb(226, 59, 17);
+}
+
