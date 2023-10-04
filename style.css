@@ -1,0 +1,30 @@
+.bloco {
+    margin: 20px;
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    background-color: #f2f2f2; /* Cor de fundo de acordo com a imagem */
+    border: 1px solid #ccc; /* Borda com 1px de largura e cor cinza */
+  }
+  #bloco-1 {
+    border: 2px solid #0074d9; /* Borda de 2px com cor azul */
+    background-color: #ffdc00; /* Cor de fundo amarela */
+  }
+  
+  #bloco-2 {
+    border: 2px solid #d9534f; /* Borda de 2px com cor vermelha */
+    background-color: #5bc0de; /* Cor de fundo azul claro */
+  }
+  
+  #bloco-3 {
+    border: 2px solid #5bc0de; /* Borda de 2px com cor azul claro */
+    background-color: #d9534f; /* Cor de fundo vermelha */
+  }
+  
+  #bloco-4 {
+    border: 2px solid #ffdc00; /* Borda de 2px com cor amarela */
+    background-color: #0074d9; /* Cor de fundo azul */
+  }
+  main {
+    font-family: "Helvetica", sans-serif;
+  }
