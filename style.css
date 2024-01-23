@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main {
+    font-family: "Helvetica";
+}
+ 
+.bloco {
+    width: 100%;
+    max-width: 300px;
+    color: white;
+    margin: 9px ;
+    padding: 18px;
+    }
+
+
+#bloco-1 {
+    background-color: chocolate;
+    /* width: ; */
+border: 5px solid orange;
+}
+
+#bloco-2 {
+    background-color: #3c7f4e;
+border: 5px solid #51a676 ;
+}
+
+#bloco-3 {
+    background-color: darkgreen;
+   border: 5px  dashed rgb(26, 207, 38);
+}
+
+#bloco-4 {
+    background-color: brown;
+    border: 5px  dashed  #E98274;
+}
+
+p:hover{
+    background-color: orange;
+ }
